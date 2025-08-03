@@ -30,7 +30,7 @@ pip install pygame
 Installation
 Clone the repository:
 
-
+git clone https://github.com/Kanhaiyathakur001/pathfinding-visualizer.git
 cd pathfinding-visualizer
 
 Install dependencies:
